@@ -204,7 +204,4 @@ sudo chmod +x /usr/local/bin/imageinfo
 echo "✅ تم إنشاء الأداة: /usr/local/bin/imageinfo"
 echo "✨ شغّلها بكتابة: imageinfo  أو imageinfo --save /path/to/image"
 
-## الاستخدام
-```bash
-imageinfo /path/to/image
-imageinfo --save /path/to/image
+                                              
